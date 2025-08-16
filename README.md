@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 7: Creating Views (SQL)
 
 ## 🎯 Objective
@@ -39,3 +40,7 @@ Build reusable SQL logic using `CREATE VIEW`, demonstrate usage, and show how vi
 
 ## ✅ Outcome
 You’ll understand how to package reusable SELECT logic and enforce simple security using SQL views.
+=======
+# task-7-sql-views
+SQL views on an e-commerce schema: reusable SELECT logic, security/abstraction, updatable views with CHECK OPTION, and usage examples.
+>>>>>>> c4a050be4e9f598191182ca310b4bc7b25a775ca
